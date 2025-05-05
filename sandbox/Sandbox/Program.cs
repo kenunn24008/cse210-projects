@@ -1,6 +1,6 @@
 using System;
 
-class Program 
+class Program
 {
     static void Main(string[] args)
     // (),(void is the return type),(Main is the name of the function),(string[] is the data type) 
