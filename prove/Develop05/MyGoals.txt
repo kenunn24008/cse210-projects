@@ -1,0 +1,4 @@
+90
+EternalGoal:Read Scriptures,Read every night,20
+SimpleGoal:Go home,leace,40,True
+ChecklistGoal:Step count,Hit step count 6 times,30,50,6,1
